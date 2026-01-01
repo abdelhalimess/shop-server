@@ -4,7 +4,6 @@ import fr.fullstack.shopapp.model.Category;
 import fr.fullstack.shopapp.service.CategoryService;
 import fr.fullstack.shopapp.util.ErrorValidation;
 import io.swagger.v3.oas.annotations.Operation;
-import io.swagger.v3.oas.annotations.Parameter;
 import org.springdoc.core.annotations.ParameterObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
